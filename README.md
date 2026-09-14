@@ -21,7 +21,7 @@
 
 **Robotics · AI · Core**
 
-![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)![CUDA and Isaac Sim tiles](assets/extra-robotics.svg)
+![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)
 
 **Tooling & AI Coding Agents**
 
@@ -29,49 +29,14 @@
 
 ## 🚀 Featured Projects
 
-### ▸ [vision-robot-playground](https://github.com/ShioMisaka/vision-robot-playground)
-
+### ▸ [vision-robot-playground](https://github.com/ShioMisaka/vision-robot-playground) ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 A ROS 2 + Isaac Sim based vision-guided robotic arm grasping system.
 
-![language](https://img.shields.io/github/languages/top/ShioMisaka/vision-robot-playground?style=flat-square&color=7AA2F7)
-![stars](https://img.shields.io/github/stars/ShioMisaka/vision-robot-playground?style=flat-square&color=E0AF68)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-### ▸ [ok-cpp](https://github.com/ShioMisaka/ok-cpp)
-
-A lightweight C++ playground & template manager for Linux (CMake-based).
-
-![language](https://img.shields.io/github/languages/top/ShioMisaka/ok-cpp?style=flat-square&color=7AA2F7)
-![stars](https://img.shields.io/github/stars/ShioMisaka/ok-cpp?style=flat-square&color=E0AF68)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### ▸ [ai-playground](https://github.com/ShioMisaka/ai-playground)
-
+### ▸ [ai-playground](https://github.com/ShioMisaka/ai-playground) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 Let's learn AI together! — hands-on deep learning experiments.
 
-![language](https://img.shields.io/github/languages/top/ShioMisaka/ai-playground?style=flat-square&color=7AA2F7)
-![stars](https://img.shields.io/github/stars/ShioMisaka/ai-playground?style=flat-square&color=E0AF68)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ▸ [cpp-playground](https://github.com/ShioMisaka/cpp-playground)
-
+### ▸ [cpp-playground](https://github.com/ShioMisaka/cpp-playground) ![Modern C++](https://img.shields.io/badge/Modern_C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 C++ learning demos and experiments — modern C++ features in practice.
-
-![language](https://img.shields.io/github/languages/top/ShioMisaka/cpp-playground?style=flat-square&color=7AA2F7)
-![stars](https://img.shields.io/github/stars/ShioMisaka/cpp-playground?style=flat-square&color=E0AF68)
-![Modern C++](https://img.shields.io/badge/Modern_C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### ▸ [nvimrc](https://github.com/ShioMisaka/nvimrc)
-
-My Neovim configuration — Lua, LSP and a fully keyboard-driven workflow.
-
-![language](https://img.shields.io/github/languages/top/ShioMisaka/nvimrc?style=flat-square&color=7AA2F7)
-![stars](https://img.shields.io/github/stars/ShioMisaka/nvimrc?style=flat-square&color=E0AF68)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ## 🔥 GitHub Stats
 
