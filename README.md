@@ -25,7 +25,7 @@
 
 **Tooling & AI Coding Agents**
 
-![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker,arch,linux,bash,git,githubactions&theme=dark)![Fedora, pi, OpenCode, ZCode tiles](assets/extra-tooling.svg)
+![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker&theme=dark) ![linux and arch](https://skillicons.dev/icons?i=linux,arch&theme=dark)![Fedora tile](assets/fedora-tile.svg) ![cli](https://skillicons.dev/icons?i=bash,git&theme=dark) ![AI coding agents](assets/extra-tooling.svg)
 
 ## 🚀 Featured Projects
 
