@@ -23,9 +23,9 @@
 
 ![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)
 
-**Tooling & AI Coding Agents**
+**Tooling**
 
-![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker&theme=dark) ![linux and arch](https://skillicons.dev/icons?i=linux,arch&theme=dark)![Fedora tile](assets/fedora-tile.svg) ![cli](https://skillicons.dev/icons?i=bash,git&theme=dark) ![AI coding agents](assets/extra-tooling.svg)
+![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker&theme=dark) ![linux and arch](https://skillicons.dev/icons?i=linux,arch&theme=dark)![Fedora tile](assets/fedora-tile.svg) ![cli](https://skillicons.dev/icons?i=bash,git&theme=dark)
 
 ## 🚀 Featured Projects
 
