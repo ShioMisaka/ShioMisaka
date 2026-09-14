@@ -19,20 +19,32 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Robotics · AI**
 
-![core skills](https://skillicons.dev/icons?i=cpp,qt,python,lua,cmake&theme=dark)
-
-**Robotics · AI · Tooling**
-
-![robotics and tooling skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,docker,linux,bash,neovim,git,githubactions&theme=dark)
+![robotics and AI skills](https://skillicons.dev/icons?i=ros,pytorch,opencv&theme=dark)
 
 <br>
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Languages & Core**
+
+![core skills](https://skillicons.dev/icons?i=cpp,qt,python,lua,cmake&theme=dark)
+
+<br>
+
 ![C++17/20](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+**Tooling & AI Coding Agents**
+
+![tooling skills](https://skillicons.dev/icons?i=docker,linux,bash,neovim,git,githubactions&theme=dark)
+
+<br>
+
+![pi](https://img.shields.io/badge/%CF%80-pi-BB9AF7?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-9ECE6A?style=flat-square&logo=opencode&logoColor=black)
+![ZCode](https://img.shields.io/badge/ZCode-7DCFFF?style=flat-square)
 
 ## 🚀 Featured Projects
 
