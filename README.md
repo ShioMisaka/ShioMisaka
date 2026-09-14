@@ -83,7 +83,7 @@ My Neovim configuration — Lua, LSP and a fully keyboard-driven workflow.
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShioMisaka&theme=tokyonight&hide_border=true&card_width=580" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=ShioMisaka&theme=tokyonight&hide_border=true&card_width=580&v=2" alt="GitHub streak stats" />
 </div>
 
 ## 🐍 Contributions in the Last Year
