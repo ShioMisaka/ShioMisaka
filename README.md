@@ -21,11 +21,11 @@
 
 **Languages & Core**
 
-![core skills](https://skillicons.dev/api/icons?i=cpp,qt,python,lua,cmake&theme=dark)
+![core skills](https://skillicons.dev/icons?i=cpp,qt,python,lua,cmake&theme=dark)
 
 **Robotics · AI · Tooling**
 
-![robotics and tooling skills](https://skillicons.dev/api/icons?i=ros,pytorch,opencv,docker,linux,bash,neovim,git,githubactions&theme=dark)
+![robotics and tooling skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,docker,linux,bash,neovim,git,githubactions&theme=dark)
 
 <br>
 
