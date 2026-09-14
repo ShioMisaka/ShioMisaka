@@ -21,24 +21,11 @@
 
 **Robotics · AI · Core**
 
-![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)
-
-<br>
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++17/20](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)![CUDA and Isaac Sim tiles](assets/extra-robotics.svg)
 
 **Tooling & AI Coding Agents**
 
-![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker,arch,linux,bash,git,githubactions&theme=dark)
-
-<br>
-
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![pi](https://img.shields.io/badge/%CF%80-pi-BB9AF7?style=flat-square)
-![OpenCode](https://img.shields.io/badge/OpenCode-9ECE6A?style=flat-square&logo=opencode&logoColor=black)
-![ZCode](https://img.shields.io/badge/ZCode-7DCFFF?style=flat-square)
+![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker,arch,linux,bash,git,githubactions&theme=dark)![Fedora, pi, OpenCode, ZCode tiles](assets/extra-tooling.svg)
 
 ## 🚀 Featured Projects
 
