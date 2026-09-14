@@ -4,7 +4,7 @@
 <text x="128" y="172" font-family="Segoe UI, Ubuntu, sans-serif" font-size="140" font-weight="700" fill="#FFFFFF" text-anchor="middle">π</text>
 </g>
 <g transform="translate(344, 0)">
-<rect width="256" height="256" rx="60" fill="#9ECE6A"/>
+<rect width="256" height="256" rx="60" fill="#000000"/>
 <g transform="translate(48,48) scale(6.6667)"><path d="M22 24H2V0h20zM17 4.8H7v14.4h10z" fill="#FFFFFF"/></g>
 </g>
 <g transform="translate(644, 0)">
