@@ -21,11 +21,11 @@
 
 **Robotics · AI · Core**
 
-![robotics, AI and core skills](https://skillicons.dev/icons?i=cpp,python,lua,cmake,opencv,qt,ros,pytorch&theme=dark)
+![robotics, AI and core skills](https://skillicons.dev/icons?i=cpp,python,lua,rust,cmake,opencv,qt,ros,pytorch&theme=dark)
 
 **Tooling**
 
-![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker&theme=dark) ![linux and arch](https://skillicons.dev/icons?i=linux,arch&theme=dark)![Fedora tile](assets/fedora-tile.svg) ![cli](https://skillicons.dev/icons?i=bash,git&theme=dark)
+![tooling skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,docker,linux,arch&theme=dark)![Fedora tile](assets/fedora-tile.svg)&nbsp;&nbsp;![cli](https://skillicons.dev/icons?i=bash,git&theme=dark)
 
 ## 🚀 Featured Projects
 
