@@ -21,7 +21,7 @@
 
 **Robotics · AI · Core**
 
-![robotics, AI and core skills](https://skillicons.dev/icons?i=ros,pytorch,opencv,cpp,qt,python,lua,cmake&theme=dark)
+![robotics, AI and core skills](https://skillicons.dev/icons?i=cpp,python,lua,cmake,opencv,qt,ros,pytorch&theme=dark)
 
 **Tooling**
 
@@ -44,7 +44,7 @@ C++ learning demos and experiments — modern C++ features in practice.
   <img src="https://streak-stats.demolab.com?user=ShioMisaka&theme=tokyonight&hide_border=true&card_width=580&v=2" alt="GitHub streak stats" />
 </div>
 
-## 🐍 Contributions in the Last Year
+## Contributions in the Last Year
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShioMisaka/ShioMisaka/output/github-snake-dark.svg" />
